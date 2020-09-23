@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948694152381",
+    "firebase_url": "https://mrfixit-92e53.firebaseio.com",
+    "project_id": "mrfixit-92e53",
+    "storage_bucket": "mrfixit-92e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948694152381:android:fd5385fda87e2a755173d4",
+        "android_client_info": {
+          "package_name": "com.abonline.mrfixit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948694152381-luc5917tajf3a9kivluqhqh5ngb67ph6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abonline.mrfixit",
+            "certificate_hash": "95cc395209515ab78c318a36b9b763ae986ddf40"
+          }
+        },
+        {
+          "client_id": "948694152381-n2jslc88b3134besv715v5q41ervbou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwbzryZz751bp2jnW4CYru69oHdhTKM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948694152381-n2jslc88b3134besv715v5q41ervbou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
